@@ -2,7 +2,7 @@
 I`m Alberto, 
 Just finished my bootcamp of Full Stack Developer on The Bridge | Digital Talent Accelerator
 
-https://user-images.githubusercontent.com/92597288/193588580-d0dfbe3d-e07d-4088-be44-fa5d532d441a.mp4
+![Alberto ` s life](https://user-images.githubusercontent.com/92597288/193592426-676a6294-01b3-47a3-b471-69bf7d0a59fa.jpg)
 <!--
 **AlbertoArenas98/AlbertoArenas98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
